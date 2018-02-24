@@ -1,5 +1,6 @@
 function theBeatlesPlay (musician, instruments){
+  var finish = {}
   for (var i = 0; i < musician.length; i++) {
-    return musician[i] + " plays " + instruments;
+    musician.slice[i] = finish
   }
 }
